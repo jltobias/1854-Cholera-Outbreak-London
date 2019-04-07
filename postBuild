@@ -1,1 +1,2 @@
+/bin/bash setup.sh
 jupyter trust NB00-Cholera-Case-Study-Prepare-Environment.ipynb
