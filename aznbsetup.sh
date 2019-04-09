@@ -1,2 +1,2 @@
 #!/bin/bash
-conda install -y osmnx=0.9*
+conda install -y pandas folium osmnx=0.9*
